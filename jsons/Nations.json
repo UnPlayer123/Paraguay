@@ -30,7 +30,7 @@
 		"outerColor": [178,34,34],
 		"innerColor": [255,255,255],
 		"uniqueName": "¡El Paraguayo Independiente!",
-		"uniques": ["[+1 Gold, +1 Production, +1 Culture] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"]
+		"uniques": ["[+1 Gold, +1 Production, +1 Culture] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>","[+1 Food, +1 Gold] from every [Pasture]"]
 		"cities": ["Asunción","Ypané","Guarambaré","San Roque","Altos","Atyrá","Areguá","Itá","Tobatí",
 			"Yaguarón","Villarrica","Caazapá","San Ignacio","Yuty","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Coronel Oviedo",
 			"Capiatá","Limpio","Lambaré","Itauguá","Luque","Villa Elisa","Hermandarias","Caacupé","Minga Guazú","Nueva Asunción",
