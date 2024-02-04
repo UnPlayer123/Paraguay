@@ -1,0 +1,13 @@
+[
+
+	{
+		"name": "Taller Industrial",
+		"replaces": "Manufactory",
+		"uniqueTo": "Paraguay",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 3,
+		"gold": 1,
+		"science": 1,
+		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+25 Gold]"]
+	}
+]
