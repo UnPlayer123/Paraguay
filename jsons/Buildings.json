@@ -1,25 +1,38 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Palacio de López",
+		"replaces": "Palace",
+		"uniqueTo": "Paraguay",
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 2,
+		"cityStrength": 3,
+		"cost": 2,
+		"uniques": ["Indicates the capital city"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Colegio Nacional de la Capital",
+		"replaces": "National College",
+		"uniqueTo": "Paraguay",
+		"cost": 130,
+		"science": 4,
+		"culture": 1,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 55},
+		"uniques": ["Requires a [Library] in all cities", "Cost increases by [30] per owned city"],
+		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Panteón Nacional de los Héroes",
+		"replaces": "Heroic Epic",
+		"uniqueTo": "Paraguay",
+		"cost": 130,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Barracks] in all cities", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Iron Working"
 	}
 ]
