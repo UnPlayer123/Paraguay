@@ -74,7 +74,7 @@
 		"requiredResource": "Iron",
 		"upgradesTo": "Artillery",
 		"obsoleteTech": "Dynamite",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
+		"uniques": ["Blast radius [1]","[+200]% Strength <vs cities> <when attacking>","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
 		"promotions": ["Morale"],
 		"civilopediaText": [
 			{
