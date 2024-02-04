@@ -1,36 +1,129 @@
 [
+
+	/* Ancient Era */
+	{
+		"name": "Agrimensor",
+		"unitType": "Scout",
+		"uniqueTo": "Paraguay",
+		"replaces": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 35,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost","Morale"],
+		"civilopediaText": [
+			{
+				"text": "Explorador que presenta una bonificación de 15 % más de fuerza."
+			}
+		],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Koygua",
+		"unitType": "Civilian",
+		"uniqueTo": "Paraguay",
+		"replaces": "Worker",
+		"movement": 2,
+		"strength": 3,
+		"cost": 80,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"promotions": ["Morale"],
+		"civilopediaText": [
+			{
+				"text": "Trabajador que también puede atacar y defenderse del enemigo con daño bajo. Capaz de ocupar misma casilla con otra unidad civil, no así con alguna unidad militar."
+			}
+		],
+		"upgradesTo": "Warrior",
+		"attackSound": "nonmetalhit"
+	},
+
+	// Rennaisance Era //
+
 	{
 		"name": "Aca Yvoty",
 		"unitType": "Mounted",
-		"uniqueTo": "Alien",
-		"replaces": "Horseman",
+		"replaces": "Lancer",
+		"uniqueTo": "Paraguay",
 		"movement": 5,
-		"strength": 14,
-		"cost": 75,
-		"requiredTech": "Horseback Riding",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"promotions": ["Great Generals I"],
+		"strength": 30,
+		"cost": 200,
+		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>"],
-		"hurryCostModifier": 20,
-		"attackSound": "horse"
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I", "Morale"],
+				"civilopediaText": [
+			{
+				"text": "Unidad de Caballería hábil, armada con una lanza o sable para matar infantería y artillería, con 15 % más de fuerza."
+			}
+		],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"	
 	},
 	{
 		"name": "Cañón Criollo",
 		"unitType": "Siege",
-		"replaces": "Catapult",
-		"uniqueTo": "Alien",
+		"replaces": "Cannon",
+		"uniqueTo": "Paraguay",
+		"movement": 1,
+		"strength": 18,
+		"rangedStrength": 24,
+		"cost": 305,
+		"requiredTech": "Chemistry",
+		"requiredResource": "Iron",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
+		"promotions": ["Morale"],
+		"civilopediaText": [
+			{
+				"text": "Artillería superpesada paraguaya, fabricada con campanas de iglesias fundidas."
+			}
+		],
+		"attackSound": "cannon"
+	},
+
+	// Industrial Era //
+
+	{
+		"name": "Aca Verá",
+		"unitType": "Mounted",
+		"replaces": "Cavalry",
+		"uniqueTo": "Paraguay",
+		"movement": 5,
+		"strength": 39,
+		"cost": 300,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Morale"],
+		"civilopediaText": [
+			{
+				"text": "Carabinero élite paraguayo, que puede fortificar, es costoso de producir pero compensa su gran habilidad y fuerza."
+			}
+		"attackSound": "horse"
+	},
+	
+	// Great people //
+
+	{
+		"name": "Ingeniero Maestro",
+		"production":3,
+		"greatPersonPoints": {"Great Engineer":4},
+		"unitType": "Civilian",
+		"uniqueTo": "Paraguay",
+		"replaces": "Great Engineer",
 		"movement": 2,
-		"strength": 8,
-		"rangedStrength": 10,
-		"cost": 75,
-		"requiredTech": "Mathematics",
-		"obsoleteTech": "Physics",
-		"upgradesTo": "Trebuchet",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[-1] Sight"],
-		"hurryCostModifier": 20,
-		"attackSound": "throw"
+		"uniques": ["Can speed up construction of a building",
+            "Can instantly construct a [Taller Industrial] improvement <by consuming this unit>",
+            "Great Person - [Production]", "Unbuildable", "Uncapturable"]
+		"civilopediaText": [
+			{
+				"text": "Unidad gran personaje, que puede construir el Taller Industrial, o acelerar producción en construcciones."
+			}
+		]
 	}
 ]
