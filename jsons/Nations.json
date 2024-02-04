@@ -1,38 +1,40 @@
 [
 	{
-		"name": "Alien",
-		"leaderName": "Zyxxyz",
-		"adjective": ["aliens"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Paraguay",
+		"leaderName": "Francisco Solano López",
+		"adjective": ["Paraguayo","Guarani"],
+		"startBias": ["River","Plains","Hill","Avoid [Coast]"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "¡Bienvenido amigo! Paraguay, una tierra rica y llena de oportunidades, regada por grandes ríos que desembocan en el Océano Atlántico, ubicada en el corazón de América del Sur. Una civilización con raíces del mestizaje guaraní español, una nación progresista y fuerte, que tras su independencia de la Corona española, tuvo una economía sólida basada en un sistema agrícola y ganadero, impulsado también por construcciones industriales que generaban recursos. Buscaron ser la hegemonía cultural y el avance tecnológico de América del Sur, para el mundo.",
+		"startIntroPart2": "Excelentísimo Presidente de la República! ¿Estás preparado para llevar a cabo la misión de conducir a esta ferviente nación hacia su destino de gloria?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "¡La guerra es el camino a la perdición. ¡Pero no me queda más remedio que defender el honor de mi pueblo y la tierra sagrada que nos acoge!",
+		"attacked": "Vaya, no esperaba menos de ti.",
+		"defeated": "No me arrodillaré como esclavo ante mis adversarios. ¡Prefiero morir luchando por un país libre!",
+		"introduction": "¡Muy bien excelencia! Soy Francisco Solano López, el Presidente de la rica y próspera República del Paraguay. Ven y únete a mí, para mostrarte la hospitalidad de mi pueblo.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "¿Cómo estás?",
+		"neutralLetsHearIt": ["¿Y qué necesitas de nosotros?"],
+		"neutralNo": ["Nos negamos rotundamente. ¡No! Eso no es posible."],
+		"neutralYes": ["Muy bien. Por supuesto. Eso es muy útil."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "¿Qué es lo que quieres ahora?",
+		"hateLetsHearIt": ["No te daré nada."],
+		"hateNo": ["¡Eso no es posible! ¡No estamos de acuerdo con eso!"],
+		"hateYes": ["Está bien. Eso es suficiente. Muy bien..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Me alegro que lo hayas reconsiderado.",
+		"tradeRequest": "Le otorgamos el honor de esta oferta comercial.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [178,34,34],
+		"innerColor": [255,255,255],
+		"uniqueName": "¡El Paraguayo Independiente!",
+		"uniques": ["[+1 Gold, +1 Production, +1 Culture] from every specialist [in all cities]","[+15]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>"]
+		"cities": ["Asunción","Ypané","Guarambaré","San Roque","Altos","Atyrá","Areguá","Itá","Tobatí",
+			"Yaguarón","Villarrica","Caazapá","San Ignacio","Yuty","Ciudad del Este","San Lorenzo","Encarnacion","Ñemby","Coronel Oviedo",
+			"Capiatá","Limpio","Lambaré","Itauguá","Luque","Villa Elisa","Hermandarias","Caacupé","Minga Guazú","Nueva Asunción",
+			"Pilar","Fuerte Olimpo","Concepción","Ybycuí","San Cosme y Damian","Nueva Italia"]
+		"spyNames": ["Díaz", "Caballero", "López", "Franco", "Estigarribia", "Yegros", "Thompson"]
 	}
 ]
