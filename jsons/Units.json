@@ -31,7 +31,7 @@
 		"promotions": ["Morale"],
 		"civilopediaText": [
 			{
-				"text": "Trabajador que también puede atacar y defenderse del enemigo con daño bajo. Capaz de ocupar misma casilla con otra unidad civil, no así con alguna unidad militar."
+				"text": "Trabajador que puede atacar y defenderse con daño bajo. Capaz de ocupar misma casilla con otra unidad civil, no así con alguna unidad militar."
 			}
 		],
 		"upgradesTo": "Warrior",
@@ -54,7 +54,7 @@
 		"promotions": ["Formation I", "Morale"],
 				"civilopediaText": [
 			{
-				"text": "Unidad cabalgante hábil, armada con una lanza o sable para destruir infantería y artillería."
+				"text": "Unidad cabalgante hábil, armada con lanza o sable para destruir infantería y artillería."
 			}
 		],
 		"upgradesTo": "Anti-Tank Gun",
@@ -92,20 +92,21 @@
 		"replaces": "Cavalry",
 		"uniqueTo": "Paraguay",
 		"movement": 5,
-		"strength": 37,
+		"strength": 30,
+		"rangedStrength": 34,
 		"cost": 275,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
 		"promotions": ["Morale"],
 		"civilopediaText": [
 			{
-				"text": "Carabinero élite paraguayo, que puede fortificar."
+				"text": "Carabinero élite paraguayo, que puede fortificarse."
 			}
 		]
-		"attackSound": "horse"
+		"attackSound": "shot"
 	},
 	
 	// Great people //
