@@ -17,7 +17,7 @@
 				"text": "Explorador que presenta una bonificación de 15 % más de fuerza."
 			}
 		],
-		"attackSound": "nonmetalhit"
+		"attackSound": "metalhit"
 	},
 	{
 		"name": "Koygua",
