@@ -105,7 +105,7 @@
 				"text": "Carabinero élite paraguayo, que puede fortificar."
 			}
 		]
-		"attackSound": ¨["horse","shot"]
+		"attackSound": ["horse","shot"]
 	},
 	
 	// Great people //
