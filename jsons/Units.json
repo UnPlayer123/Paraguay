@@ -46,15 +46,15 @@
 		"replaces": "Lancer",
 		"uniqueTo": "Paraguay",
 		"movement": 5,
-		"strength": 30,
-		"cost": 200,
+		"strength": 28,
+		"cost": 235,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"promotions": ["Formation I", "Morale"],
 				"civilopediaText": [
 			{
-				"text": "Unidad de Caballería hábil, armada con una lanza o sable para matar infantería y artillería, con 15 % más de fuerza."
+				"text": "Unidad cabalgante hábil, armada con una lanza o sable para destruir infantería y artillería."
 			}
 		],
 		"upgradesTo": "Anti-Tank Gun",
@@ -67,9 +67,9 @@
 		"replaces": "Cannon",
 		"uniqueTo": "Paraguay",
 		"movement": 1,
-		"strength": 18,
+		"strength": 17,
 		"rangedStrength": 24,
-		"cost": 305,
+		"cost": 235,
 		"requiredTech": "Chemistry",
 		"requiredResource": "Iron",
 		"upgradesTo": "Artillery",
@@ -92,20 +92,20 @@
 		"replaces": "Cavalry",
 		"uniqueTo": "Paraguay",
 		"movement": 5,
-		"strength": 39,
-		"cost": 300,
+		"strength": 37,
+		"cost": 275,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
 		"promotions": ["Morale"],
 		"civilopediaText": [
 			{
-				"text": "Carabinero élite paraguayo, que puede fortificar, es costoso de producir pero compensa su gran habilidad y fuerza."
+				"text": "Carabinero élite paraguayo, que puede fortificar."
 			}
 		]
-		"attackSound": "horse"
+		"attackSound": ¨["horse","shot"]
 	},
 	
 	// Great people //
@@ -123,7 +123,7 @@
             "Great Person - [Production]", "Unbuildable", "Uncapturable"]
 		"civilopediaText": [
 			{
-				"text": "Unidad gran personaje, que puede construir el Taller Industrial, o acelerar producción en construcciones."
+				"text": "Unidad civil gran personaje, que puede construir el Taller Industrial, o acelerar producción en construcciones."
 			}
 		]
 	}
