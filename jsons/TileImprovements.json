@@ -1,6 +1,16 @@
 [
 
 	{
+		"name": "Estancia de la Patria",
+		"uniqueTo": "Paraguay",
+		"replaces": "Pasture",
+		"food": 1,
+		"gold": 1,
+		"turnsToBuild": 10,
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Provides [1] [Horses]", "Pillaging this improvement yields approximately [+30 Gold]"],
+		"techRequired": "Animal Husbandry",
+	},
+	{
 		"name": "Taller Industrial",
 		"replaces": "Manufactory",
 		"uniqueTo": "Paraguay",
