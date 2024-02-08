@@ -34,5 +34,33 @@
 		"uniques": ["Requires a [Barracks] in all cities", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Iron Working"
+	},
+	{
+		"name": "Fábrica Siderúrgica",
+		"replaces": "Factory",
+		"uniqueTo": "Paraguay",
+		"cost": 410,
+		"production": 4,
+		"culture": 1,
+		"gold": 1
+		"science": 1,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 5,
+		"hurryCostModifier": 1,
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Campamento de Entrenamiento",
+		"replaces": "Military Academy",
+		"uniqueTo": "Paraguay",
+		"hurryCostModifier": 1,
+		"culture": 1,
+		"maintenance": 2,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
 	}
 ]
