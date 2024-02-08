@@ -3,7 +3,7 @@
 		"name": "Paraguay",
 		"leaderName": "Francisco Solano López",
 		"adjective": ["Paraguayo","Guarani"],
-		"startBias": ["River","Plains","Hill","Avoid [Coast]"],
+		"startBias": ["River","Grassland","Hill","Avoid [Coast]"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "¡Bienvenido amigo! Paraguay, una tierra rica y llena de oportunidades, regada por grandes ríos que desembocan en el Océano Atlántico, ubicada en el corazón de América del Sur. Una civilización con raíces del mestizaje guaraní español, una nación progresista y fuerte, que tras su independencia de la Corona española, tuvo una economía sólida basada en un sistema agrícola y ganadero, impulsado también por construcciones industriales que generaban recursos. Buscaron ser la hegemonía cultural y el avance tecnológico de América del Sur, para el mundo.",
