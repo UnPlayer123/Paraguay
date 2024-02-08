@@ -1,0 +1,237 @@
+
+game.png
+size: 1024, 512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+UnitIcons/Aca Verá
+  rotate: false
+  xy: 4, 301
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Aca Yvoty
+  rotate: false
+  xy: 4, 93
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Agrimensor
+  rotate: false
+  xy: 212, 301
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Cañón Criollo
+  rotate: false
+  xy: 212, 93
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Ingeniero Maestro
+  rotate: false
+  xy: 420, 301
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Koygua
+  rotate: false
+  xy: 420, 93
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Campamento de Entrenamiento
+  rotate: false
+  xy: 628, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Colegio Nacional de la Capital
+  rotate: false
+  xy: 628, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Estancia de la Patria
+  rotate: false
+  xy: 736, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fábrica Siderúrgica
+  rotate: false
+  xy: 628, 185
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Palacio de López
+  rotate: false
+  xy: 736, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Panteón Nacional de los Héroes
+  rotate: false
+  xy: 844, 401
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Paraguay
+  rotate: false
+  xy: 736, 185
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Taller Industrial
+  rotate: false
+  xy: 844, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Agrimensor-Paraguay
+  rotate: false
+  xy: 4, 4
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ingeniero Maestro-Paraguay
+  rotate: false
+  xy: 628, 96
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Koygua-Paraguay
+  rotate: false
+  xy: 844, 204
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Verá-1
+  rotate: false
+  xy: 107, 20
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Verá-2
+  rotate: false
+  xy: 731, 112
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Verá-Paraguay
+  rotate: false
+  xy: 192, 20
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Verá
+  rotate: false
+  xy: 277, 20
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Yvoty-1
+  rotate: false
+  xy: 362, 20
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Yvoty-2
+  rotate: false
+  xy: 447, 20
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Yvoty-Paraguay
+  rotate: false
+  xy: 532, 20
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Aca Yvoty
+  rotate: false
+  xy: 844, 131
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cañón Criollo-1
+  rotate: false
+  xy: 952, 445
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cañón Criollo-2
+  rotate: false
+  xy: 952, 381
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cañón Criollo-Paraguay
+  rotate: false
+  xy: 952, 317
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cañón Criollo
+  rotate: false
+  xy: 952, 253
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Estancia de la Patria-Pillaged
+  rotate: false
+  xy: 947, 189
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Estancia de la Patria
+  rotate: false
+  xy: 929, 125
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Taller Industrial-Pillaged
+  rotate: false
+  xy: 731, 40
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Taller Industrial
+  rotate: false
+  xy: 803, 40
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
