@@ -23,7 +23,6 @@
 		"name": "Koygua",
 		"unitType": "Civilian",
 		"uniqueTo": "Paraguay",
-		"replaces": "Worker",
 		"movement": 2,
 		"strength": 3,
 		"cost": 80,
