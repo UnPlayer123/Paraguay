@@ -26,7 +26,7 @@
 		"movement": 2,
 		"strength": 3,
 		"cost": 90,
-		"uniques": ["Can build [Estancia de la Patria] improvements on tiles", "Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"uniques": ["Can build [Estancia de la Patria] improvement <in cities connected to the capital>", "Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"promotions": ["Morale"],
 		"civilopediaText": [
 			{
