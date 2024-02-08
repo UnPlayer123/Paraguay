@@ -9,6 +9,7 @@
 		"turnsToBuild": 10,
 		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Provides [1] [Horses]", "Pillaging this improvement yields approximately [+30 Gold]"],
 		"techRequired": "Animal Husbandry",
+		"shortcutKey": "F"
 	},
 	{
 		"name": "Taller Industrial",
