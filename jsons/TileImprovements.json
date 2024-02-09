@@ -2,7 +2,6 @@
 
 	{
 		"name": "Estancia de la Patria",
-		"replaces": "Pasture",
 		"uniqueTo": "Paraguay",
 		"terrainsCanBeBuiltOn": ["River"],
 		"food": 1,
