@@ -22,11 +22,12 @@
 	{
 		"name": "Koygua",
 		"unitType": "Civilian",
+		"replaces": "Worker",
 		"uniqueTo": "Paraguay",
 		"movement": 2,
 		"strength": 3,
 		"cost": 90,
-		"uniques": ["Can build [Estancia de la Patria] improvements on tiles <in cities connected to the capital>", "Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"promotions": ["Morale"],
 		"civilopediaText": [
 			{
