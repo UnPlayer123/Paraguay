@@ -8,7 +8,7 @@
 		"food": 1,
 		"gold": 1,
 		"turnsToBuild": 10,
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>","Provides [1] [Horses]","Pillaging this improvement yields approximately [+30 Gold]","Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles","Great Improvement"],
+		"uniques": ["<in cities connected to the capital>","[+1 Food] <after discovering [Fertilizer]>","Provides [1] [Horses]","Pillaging this improvement yields approximately [+30 Gold]","Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles","Great Improvement"],
 		"techRequired": "Animal Husbandry",
 	},
 	{
