@@ -2,8 +2,9 @@
 
 	{
 		"name": "Estancia de la Patria",
+		"replaces": "Pasture",
 		"uniqueTo": "Paraguay",
-		"terrainsCanBeBuiltOn": ["River"],
+		"terrainsCanBeBuiltOn": ["River","Grassland"],
 		"food": 1,
 		"gold": 1,
 		"turnsToBuild": 10,
