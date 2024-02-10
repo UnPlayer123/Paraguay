@@ -1,14 +1,11 @@
 # PARAGUAY Civilization Unciv Mod
+# UPDATE
+# v0.5
+- Agregado nueva unidad cabalgante: "Aca Carayá"
+  Similar a Aca Yvoty versión Élite con promoción Blitz, cuesta un poco más de obtener, y se desbloquea con estudio Economía.
 
-# v0.4
-Agregado "Fábrica Siderúrgica" suplanta a Fábrica.
+- Se añadió también imagen e ícono del Aca Carayá.
 
-"Campamento de Entrenamiento" reemplaza a Academia Militar
+- Y un rebalanceo al Aca Yvoty.
 
-Añadido "Estancia de la Patria" por Pastizal, suministra 1 caballo.
-
-También se sumaron algunos íconos, e imágenes faltantes.
-
-Rebalanceo de unidades, Aca Yvoty, Aca Verá y Cañón Criollo.
-
-Y otros cambios menores. Muchas gracias.
+  Muchas gracias.
