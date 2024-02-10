@@ -46,7 +46,7 @@
 		"replaces": "Lancer",
 		"uniqueTo": "Paraguay",
 		"movement": 5,
-		"strength": 28,
+		"strength": 26,
 		"cost": 235,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
@@ -55,6 +55,26 @@
 				"civilopediaText": [
 			{
 				"text": "Unidad cabalgante hábil, armada con lanza o sable para destruir infantería y artillería."
+			}
+		],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"	
+	},
+	{
+		"name": "Aca Carayá",
+		"unitType": "Mounted",
+		"uniqueTo": "Paraguay",
+		"movement": 5,
+		"strength": 28,
+		"cost": 245,
+		"requiredTech": "Economics",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"promotions": ["Formation I", "Morale", "Blitz"],
+				"civilopediaText": [
+			{
+				"text": "Unidad cabalgante de élite, similar al Aca Yvoty promovido con ataque adicional."
 			}
 		],
 		"upgradesTo": "Anti-Tank Gun",
