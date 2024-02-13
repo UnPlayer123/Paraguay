@@ -126,6 +126,51 @@
 		]
 		"attackSound": "horse"
 	},
+	{
+		"name": "Vapor de Guerra",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Paraguay",
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 40,
+		"cost": 280,
+		"requiredTech": "Industrialization",
+		"requiredResource": "Coal",
+		"upgradesTo": "Battleship",
+		"obsoleteTech": "Electronics",
+		"uniques": ["Double movement in [Coast]","May capture killed [Water] units","Never appears as a Barbarian unit"],
+		"promotions": ["Morale","Supply"],
+				"civilopediaText": [
+			{
+				"text": "Buque a vapor armado con artillería."
+			}
+		],
+		"attackSound": "shipguns"
+	},
+
+	// Modern era //
+
+	{
+		"name": "ZP-XEA",
+		"unitType": "Bomber",
+		"uniqueTo": "Paraguay",
+		"movement": 1,
+		"strength": 40,
+		"rangedStrength": 40,
+		"range": 9,
+		"cost": 270,
+		"requiredTech": "Flight",
+		"requiredResource": "Oil",
+		"promotions": ["Evasion"],
+				"civilopediaText": [
+			{
+				"text": "Avión liviano con artillería para bombardeos."
+			}
+		],
+		"upgradesTo": "Bomber",
+		"obsoleteTech": "Radar",
+		"attackSound": "bombing"
+	},
 	
 	// Great people //
 
