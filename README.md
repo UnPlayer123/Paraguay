@@ -1,11 +1,17 @@
 # PARAGUAY Civilization Unciv Mod
 # UPDATE
-# v0.5
-- Agregado nueva unidad cabalgante: "Aca Carayá"
-  Similar a Aca Yvoty versión Élite con promoción Blitz, cuesta un poco más de obtener, y se desbloquea con estudio Economía.
+# v0.6
+- Agregado nueva unidad náutica: "Vapor de Guerra"
+  Buque a vapor armado con artillería, con ataque a larga distancia y que puede capturar navíos muertos.
+  
+- Se añadió también imagen e ícono del Vapor de Guerra.
 
-- Se añadió también imagen e ícono del Aca Carayá.
+- Unidad de Pólvora de largo alcance, la Artillería de Metralla.
+  Pieza liviana de ametralladora, de fácil transporte y movilización.
 
-- Y un rebalanceo al Aca Yvoty.
+- Imagen e ícono de la Artillería de Metralla.
+
+- Avión bombardero ZP-XEA.
+  El primer y único avión creado en Paraguay.
 
   Muchas gracias.
