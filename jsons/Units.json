@@ -142,7 +142,7 @@
 		"promotions": ["Morale","Supply"],
 				"civilopediaText": [
 			{
-				"text": "Buque a vapor armado con artillería."
+				"text": "Buque a vapor armado con artillería, con ataque a larga distancia y que puede capturar navíos muertos."
 			}
 		],
 		"attackSound": "shipguns"
