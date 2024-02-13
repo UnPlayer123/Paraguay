@@ -147,6 +147,27 @@
 		],
 		"attackSound": "shipguns"
 	},
+	{
+		"name": "Artillería de Metralla",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Paraguay",
+		"range": 2,
+		"movement": 4,
+		"strength": 20,
+		"rangedStrength": 20,
+		"cost": 255,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Machine Gun",
+		"obsoleteTech": "Ballistics",
+		"uniques": ["May withdraw before melee ([50]%)","Can move after attacking","Never appears as a Barbarian unit"],
+		"promotions": ["Morale"],
+				"civilopediaText": [
+			{
+				"text": "Pieza liviana de ametralladora, de fácil transporte y movilización."
+			}
+		],
+		"attackSound": "machinegun"
+	},
 
 	// Modern era //
 
